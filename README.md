@@ -2,7 +2,13 @@
 
 **Hello Guardian Life SWE team**,
 
-Thank you again for the opportunity to complete the coding challenge during our interview. While I didn’t get to finish everything in the allotted time, I was eager to revisit the problem and complete a polished version. Problem-solving is one of my favorite parts of development, and I’d love to walk you through my approach and thought process.
+Thank you again for the opportunity to complete the coding challenge during our interview. While I didn’t get to finish everything in the allotted time, I was eager to revisit the problem and complete a polished version. Problem-solving is one of my favorite parts of development, and I’d love to walk you through my approach and 
+thought process.
+
+### Starting Project
+**api:** navigate to /api and run `npm install && npm run dev`
+**ui**: navigate to /ui and run `npm install && npm run dev`
+
 
 ## UI components and structure
 
