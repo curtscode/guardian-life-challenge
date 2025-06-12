@@ -7,6 +7,7 @@ thought process.
 
 ### Starting Project
 **api:** navigate to /api and run `npm install && npm run dev`
+
 **ui**: navigate to /ui and run `npm install && npm run dev`
 
 
