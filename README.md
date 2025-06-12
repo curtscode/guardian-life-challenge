@@ -4,6 +4,9 @@
 
 Thank you again for the opportunity to complete the coding challenge during our interview. While I didn’t get to finish everything in the allotted time, I was eager to revisit the problem and complete a polished version. Problem-solving is one of my favorite parts of development, and I’d love to walk you through my approach and 
 thought process.
+![Screenshot From 2025-06-12 09-35-54](https://github.com/user-attachments/assets/78a62792-ecdb-499f-883c-428858a5e7c2)
+
+
 
 ### Starting Project
 **api:** navigate to /api and run `npm install && npm run dev`
